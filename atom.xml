@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.superpung.xyz/"/>
-  <updated>2020-02-23T02:45:16.754Z</updated>
+  <updated>2020-02-25T06:26:20.689Z</updated>
   <id>http://www.superpung.xyz/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Computer System Experiment #2</title>
+    <link href="http://www.superpung.xyz/2020/02/25/Computer-System-Experiment-2/"/>
+    <id>http://www.superpung.xyz/2020/02/25/Computer-System-Experiment-2/</id>
+    <published>2020-02-25T06:21:33.000Z</published>
+    <updated>2020-02-25T06:26:20.689Z</updated>
+    
+    <content type="html"><![CDATA[<p>如题：</p><blockquote><p>第二章作业 指针、字节序、移位、数组reverse</p><ul><li>完善附件的代码：补齐缺失的代码完成以下功能</li><li>根据代码的输出结果，判定一下自己的计算机的CPU是大端序还是小端序，说明理由。</li><li>完善checkShift()函数中输出结果的代码，理解Logic/Arithmetic 移位操作, 理解超出变量类型bit长度时编译器和CPU的不同行为。总结对常数和变量进行移位的结果。</li><li>学习使用inpswap函数，对inplaceReverseArray()函数内容进行完善，检查table1和table2的输出结果是否满足要求。</li><li>如果inplaceReverseArray的结果有问题，如何修改才能正确完成数组的反序。</li><li>写明自己用编译器版本、操作系统名及版本。</li><li>作业提交：最终的源代码，在代码的开头用注释的方式写出以上4项的结果报告。</li></ul></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;如题：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;第二章作业 指针、字节序、移位、数组reverse&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;完善附件的代码：补齐缺失的代码完成以下功能&lt;/li&gt;
+&lt;li&gt;根据代码的输出结果，判定一下自己的计算机的CPU是大端序还是小端序，说明理由。&lt;/li
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Computer System" scheme="http://www.superpung.xyz/tags/Computer-System/"/>
+    
+  </entry>
   
   <entry>
     <title>Computer System Experiment #1</title>
